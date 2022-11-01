@@ -1,0 +1,23 @@
+{
+  "name": "git32065",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaviAPS94/coderhouse-git-32065-ap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaviAPS94/coderhouse-git-32065-ap/issues"
+  },
+  "homepage": "https://github.com/JaviAPS94/coderhouse-git-32065-ap#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
